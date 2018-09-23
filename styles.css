@@ -1,0 +1,259 @@
+.text-default {
+  font-size: 14px;
+  color: #31363c;
+}
+
+.container {
+  width: 960px;
+  margin: 0 auto;
+  display: flex;
+}
+
+.topbar {
+  background: #373c42;
+  padding: 10px;
+}
+
+.topbar-social {
+  width: 50%;
+  text-align: left;
+}
+.top-menu {
+  display: inline;
+  width: 50%;
+  text-align: right;
+}
+
+.icon {
+  height: 34px;
+  display: inline-block;
+  width: 34px;
+  float: left;
+  background: gray;
+  margin-right: 5px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 34px;
+}
+
+.fa-linkedin-in,
+.fa-twitter,
+.fa-power-off,
+.fa-google-plus-g,
+.fa-wifi {
+  color: #fff;
+}
+
+.menu-item {
+  display: inline-block;
+  margin-top: 7px;
+}
+
+.menu-item a {
+  font-size: 12px;
+  font-family: Georgia;
+  color: #999;
+  text-transform: capitalize;
+  border-right: 1px solid #999;
+  text-decoration: none;
+  padding-left: 5px;
+  padding-right: 10px;
+
+}
+.header {
+  background: #4c555e;
+  color: #fff;
+  padding: 53px 0px 100px;
+}
+
+.left-header {
+  width: 50%;
+}
+
+.right-header {
+  width: 50%;
+  text-align: right;
+}
+
+.left-header h4 {
+  font-size: 26px;
+}
+
+.left-header p {
+  color: #999;
+  font-size: 12px;
+}
+.search-input{
+  background-color: #65717c;
+  border: 1px solid #65717c;
+  padding: 10px;
+}
+.search-input input {
+  font-size: 12px;
+  color:#fff;
+  text-align: center; 
+  text-transform: capitalize;
+}
+
+.search-input::placeholder {
+  color: #fff;
+}
+.search-btn{
+  background: #31363c;
+  color:#ffffff;
+  text-align: center;
+  text-transform: uppercase;
+  border: 1px solid #31363c;
+  padding: 10px;
+}
+.main-menu{
+  background: #31363c;
+  padding: 20px;
+  width: 100%;
+}
+.main-menu a {
+  text-decoration: none;
+  margin-right: 30px;
+}
+
+.wraper {
+  padding: 10px 40px 50px 40px;
+}
+
+.img-slide {
+  width: 880px;
+  height: 350px;
+  border: 10px solid #e2e2e2;
+  box-sizing: border-box;
+}
+.service-contain{
+  padding: 25px 23px 25px 23px;
+  font-size: 18pt;
+}
+.service-text{
+  font-size: 13pt;
+}
+.active-main a{
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.active-main {
+  display: inline;
+}
+
+.service-group, 
+.service-web,
+.service-leath,
+.service-calenda {
+  text-align: center;
+}
+
+.service-group i,
+.service-web i,
+.service-leath i,
+.service-calenda i {
+  font-size: 64px;
+} 
+
+.sologan{
+  color: #31363c;
+  font-size: 22px;
+  border-width: 1px;
+  border-top-style: solid ;
+  border-bottom-style: solid ;
+  border-color: #e2e2e2;
+  padding: 36px 97px 36px 97px;
+  margin: 52px 0px;
+}
+
+.prj-list h3{
+  text-transform: capitalize;
+  size: 18pt;
+  color: #31363c;
+}
+
+.prj-list p{
+  size: 13pt;
+  color: #31363c;
+}
+
+.prj-item {
+  width: 25%;
+  display: inline-block;
+}
+
+.prj-detail{
+  size: 13pt;
+  color: #31363c;
+}
+.footer{
+  background: #ededed;
+}
+.footer a{
+  size: 13pt;
+}
+
+.footer-aboutourschool{
+  text-transform: uppercase;
+  size: 12pt;
+  color: #31363c;
+}
+
+.aboutOurSchool p{
+  size: 13pt;
+}
+.footer-frommtheblock{
+  text-transform: uppercase;
+  size: 12pt;
+  color: #31363c;
+}
+.fromtheblock h4{
+  size: 14pt;
+}
+
+.fromtheblock p{
+  size: 13pt;
+}
+
+.link-block{
+  text-transform: uppercase;
+  size: 12pt;
+  color: #31363c;
+}
+.posttitle{
+  size: 14pt;
+  color: #31363c;
+}
+.new-letter{
+  text-transform: uppercase;
+  size: 12pt;
+  color: #31363c;
+}
+.footer-newletter p{
+  size: 13pt;
+}
+.input{
+  text-align: left;
+  size: 13pt;
+  color: #31363c;
+}
+.button{
+  text-transform: uppercase;
+  text-align: center;
+  size: 13pt;
+  color: #31363c;
+}
+.contact{
+  text-transform: uppercase;
+  size: 12pt;
+}
+.footer-readmore{
+  size: 13pt;
+}
+.link{
+  size: 12pt;
+}
+.coppyright{
+  size: 13pt;
+}
